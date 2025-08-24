@@ -1,154 +1,38 @@
-# 🚀 Government Internships – August 2025  
+# 🏛 Government Internships – August 2025  
 
-✨ A curated list of **Top Open Government Internships** for students across India (August 2025 edition).  
-These opportunities are perfect for **final-year & pre-final year students** looking to gain real-world experience and strengthen their resume before placements.  
-
----
-
-## 🌟 Why Apply?  
-- 💼 Gain **hands-on work experience**  
-- 📚 Exposure to **research, innovation & real projects**  
-- 🎯 Boost your profile for **placements & higher studies**  
-- 🏆 Certificates, stipends & networking with top institutions  
+A compiled list of **top open government internships in India (Aug 2025)** with stipends, eligibility, and deadlines.  
+Great for **final-year & pre-final-year students** to boost their resume and gain real-world exposure.  
 
 ---
 
-## 📋 Internship Listings  
+## 📌 Internship Opportunities  
 
-### 🔹 ICSSR Junior Engineer/Intern  
-💰 **Stipend:** ₹15,000/month  
-🎓 **Eligibility:** Social Sciences / Engineering students  
-📅 **Deadline:** Apply by *18 Aug 2025*  
-🔗 [Apply Here](https://icssr.org/vacancy/junior-internship)  
-
----
-
-### 🔹 ICSSR Senior Engineer/Intern  
-💰 **Stipend:** ₹25,000/month  
-🎓 **Eligibility:** Senior Social Sciences students  
-📅 **Deadline:** Apply by *18 Aug 2025*  
-🔗 [Apply Here](https://icssr.org/vacancy/senior-internship)  
-
----
-
-### 🔹 IITB Research Internship Awards  
-💰 **Stipend:** ₹15,000/month  
-🎓 **Eligibility:** Science / Engg. UG & PG students  
-📅 **Status:** Open (Rolling)  
-🔗 [Apply Here](https://www.ircc.iitb.ac.in/IRCC-Webpage/IITBInternship/)  
+| Internship/Org                      | Stipend         | Eligibility / Focus               | Application Status           | Key Prep Tips                                                                 | Application Link                                                      |
+|-------------------------------------|-----------------|-----------------------------------|-----------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------------------------|
+| **ICSSR Junior Engineer/Intern**     | ₹15,000/month   | Social Sciences, Engg. students   | Open (Apply by **18 Aug 2025**) | - Learn ICSSR methodology<br>- Review proposals & research basics             | [Apply Here](https://icssr.org/vacancy/junior-internship)             |
+| **ICSSR Senior Engineer/Intern**     | ₹25,000/month   | Social Sciences, Senior students  | Open (Apply by **18 Aug 2025**) | - Research design<br>- Data analysis<br>- Advanced writing skills              | [Apply Here](https://icssr.org/vacancy/senior-internship)             |
+| **IITB Research Internship Awards**  | ₹15,000/month   | Science, Engg. UG/PG              | Open                       | - Draft SOPs<br>- Read research experiences<br>- Basics of lab writing         | [IITB Internship](https://www.ircc.iitb.ac.in/IRCC-Webpage/IITBInternship/) |
+| **ISRO Internship**                  | ₹10k–₹25k/month | BSc/MSc/PhD, Science/Engg         | Open (Ongoing)              | - Focus on Python/C++<br>- Explore ISRO labs<br>- Learn from past interns      | [ISRO Internship](https://theinternship.in/isro-student-internship/)  |
+| **Lok Sabha Research Internship**    | ₹25,000/month   | PG Law, PolSci, Journalism, Public Policy | Opens mid-year (check site) | - Legislative writing<br>- Policy analysis<br>- Mock research assignments      | [Lok Sabha Internship](https://loksabha.nic.in/Research/Internship.aspx) |
+| **DRDO Research Internship**         | ₹10k–₹15k/month | UG/PG/PhD – Science/Engg          | Annual intake               | - AI/Robotics projects<br>- DRDO labs<br>- Data analytics skills               | [DRDO Internship](https://drdo.gov.in)                                |
+| **MoSPI Internship**                 | ₹5k–₹10k/month  | PG/Research students (Statistics) | Seasonal                    | - Big Data/Analytics<br>- MoSPI projects<br>- Practice R/Excel/Python          | [MoSPI Internship](https://mospi.gov.in/)                             |
+| **BARC Internship**                  | Varies          | UG/PG Sci/Engg (60%+ marks)       | Annual intake               | - Nuclear science<br>- Research project writing<br>- BARC methodologies        | [BARC Internship](https://www.barc.gov.in)                            |
+| **IIT Madras Internship**            | Paid            | Pre-final UG/PG                   | Check IIT Madras site       | - Strong CGPA<br>- Draft proposals<br>- Read lab publications                  | [IIT Madras Internship](https://sfp.iitm.ac.in/)                      |
+| **IIT Hyderabad SURE Internship**    | Paid            | UG (Top 20% CGPA)                 | Check IIT Hyderabad site    | - Coding + research journals<br>- Project work basics                          | [IIT Hyderabad Internship](https://iith.ac.in/research/)              |
+| **TCS Research Internship**          | Paid            | PhD/MS/MTech/Final yr BE/BTech    | Rolling applications        | - Software + algorithms<br>- Research-oriented project experience              | [TCS Internship](https://www.tcs.com/careers/india/internship)        |
+| **DPIIT Govt Internship**            | Unpaid / Certificate | UG/PG/PhD, Innovation           | Periodic openings           | - Innovation case studies<br>- Policy review basics                            | [DPIIT Internship](https://www.myscheme.gov.in/schemes/dpiit-is)      |
+| **MEA Research Internship**          | Paid            | Graduate / Postgraduate (6 months)| Periodic                    | - Foreign policy prep<br>- International relations basics<br>- Report writing  | [MEA Internship](https://internship.mea.gov.in/internship)            |
+| **MNRE Renewable Energy Internship** | ₹15,000/month   | UG/PG/PhD (Energy/Sustainability) | Open (Check deadline)       | - Renewable tech<br>- Data analytics<br>- Policy analysis                      | [MNRE Internship](https://mnre.gov.in/en/national-renewable-energy-internship-programme-2/) |
+| **NHRC Online Internship**           | Certificate     | Law, Social Sciences              | Periodic openings           | - Human rights modules<br>- Law case studies                                   | [NHRC Internship](https://nhrc.nic.in/training-programmes/short-term-internship-programme) |
 
 ---
 
-### 🔹 ISRO Internship  
-💰 **Stipend:** ₹10k – ₹25k/month  
-🎓 **Eligibility:** BSc / MSc / PhD (Science & Engg.)  
-📅 **Status:** Ongoing  
-🔗 [Apply Here](https://theinternship.in/isro-student-internship/)  
+## 📌 Notes   
+- Apply **before deadlines** (many close mid-Aug 2025).  
+- Even unpaid internships from Govt orgs add **huge value** to resumes.  
 
 ---
 
-### 🔹 Lok Sabha Research Internship  
-💰 **Stipend:** ₹25,000/month  
-🎓 **Eligibility:** PG in Law, PolSci, Journalism, Public Policy  
-📅 **Status:** Typically open mid-year (check site)  
-🔗 [Apply Here](https://loksabha.nic.in/Research/Internship.aspx)  
-
----
-
-### 🔹 DRDO Research Internship  
-💰 **Stipend:** ₹10k – ₹15k/month  
-🎓 **Eligibility:** UG/PG/PhD in Science & Engg.  
-📅 **Status:** Open annually  
-🔗 [Apply Here](https://drdo.gov.in)  
-
----
-
-### 🔹 Ministry of Statistics (MoSPI) Internship  
-💰 **Stipend:** ₹5k – ₹10k/month  
-🎓 **Eligibility:** PG/Research students (Statistics)  
-📅 **Status:** Seasonal openings  
-🔗 [Apply Here](https://mospi.gov.in/)  
-
----
-
-### 🔹 BARC Research Internship  
-💰 **Stipend:** Varies  
-🎓 **Eligibility:** UG/PG Sci/Engg. (60%+ marks)  
-📅 **Status:** Open annually  
-🔗 [Apply Here](https://www.barc.gov.in)  
-
----
-
-### 🔹 IIT Madras Internship  
-💰 **Stipend:** Paid  
-🎓 **Eligibility:** Pre-final year UG/PG  
-📅 **Status:** Open (Check site)  
-🔗 [Apply Here](https://sfp.iitm.ac.in/)  
-
----
-
-### 🔹 IIT Hyderabad SURE Internship  
-💰 **Stipend:** Paid  
-🎓 **Eligibility:** UG students (Top 20% CGPA)  
-📅 **Status:** Open (Check site)  
-🔗 [Apply Here](https://iith.ac.in/research/)  
-
----
-
-### 🔹 TCS Research Internship  
-💰 **Stipend:** Paid  
-🎓 **Eligibility:** PhD/MS/MTech/Final year BE/BTech  
-📅 **Status:** Rolling Applications  
-🔗 [Apply Here](https://www.tcs.com/careers/india/internship)  
-
----
-
-### 🔹 DPIIT Govt Internship  
-💰 **Stipend:** Certificate (Unpaid)  
-🎓 **Eligibility:** UG/PG/PhD (Innovation focus)  
-📅 **Status:** Periodic openings  
-🔗 [Apply Here](https://www.myscheme.gov.in/schemes/dpiit-is)  
-
----
-
-### 🔹 MEA Research Internship  
-💰 **Stipend:** Paid (6 months)  
-🎓 **Eligibility:** Graduates/Postgraduates  
-📅 **Status:** Periodic openings  
-🔗 [Apply Here](https://internship.mea.gov.in/internship)  
-
----
-
-### 🔹 National Renewable Energy Internship (MNRE)  
-💰 **Stipend:** ₹15,000/month  
-🎓 **Eligibility:** UG/PG/PhD (Energy/Sustainability)  
-📅 **Status:** Open (Check deadline)  
-🔗 [Apply Here](https://mnre.gov.in/en/national-renewable-energy-internship-programme-2/)  
-
----
-
-### 🔹 NHRC Online Internship  
-💰 **Stipend:** Certificate  
-🎓 **Eligibility:** Law / Social Sciences students  
-📅 **Status:** Periodic openings  
-🔗 [Apply Here](https://nhrc.nic.in/training-programmes/short-term-internship-programme)  
-
----
-
-## 📌 Note  
-⚡ Deadlines vary — **apply early** to avoid missing out.  
-⚡ Some internships open seasonally or annually — keep checking the official sites.  
-
----
-
-## 🤝 Contribute  
-🔗 Found another Government Internship for 2025?  
-Feel free to **open a PR** or **submit an issue** to add it here!  
-
----
-
-## ⭐ Stay Updated  
-💌 For more updates on **internships, courses & career opportunities**, join:  
-👉 [NextGen Skills Channel](https://bit.ly/NextGen-Skills)  
-
----
+## 🤝 Contribution  
+If you know of more **active Govt internships**, raise a PR or suggest an update.  
+Let’s keep this repo useful for everyone 🚀  
